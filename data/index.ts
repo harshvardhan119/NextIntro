@@ -131,13 +131,13 @@ export const testimonials = [
     quote:
       "I’m beyond excited to announce that Team Code Holic has stormed into the finals of the HackwithIndia Code4Cause2.0 Hackathon, competing against a staggering 400 teams! 🌟 After an intense 36-hour coding marathon, our project has risen to the top, and we couldn’t be more thrilled.",
     name: " Harish Singh, Salilesh Verma, Ajey anand,Ayush Srivastav",
-    title: "Director of AlphaStream Technologies",
+    title: "",
   },
   {
     quote:
       "This project features a modern, responsive, and animated landing page designed for NarrowChat AI, an advanced AI-driven communication tool. The landing page is crafted to effectively showcase the product's features, engage visitors with captivating animations, and provide a seamless user experience across various devices.",
     name: "Karan Kulshreshta (CEO of Narrowchat AI)",
-    title: "Director of AlphaStream Technologies",
+    title: "",
   },
 ];
 
